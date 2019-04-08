@@ -1,3 +1,18 @@
+# App TUS FINANZAS
+## Rediseño
+
+### Objetivos Iniciales
+
+El banco “Tus finanzas” propone lo siguiente:
+
+* Atraer nuevos usuarios a usar la aplicación, sobre todo jóvenes de entre 15-18 años.
+* Promover la cultura de ahorro
+* Motivar a los usuarios a través de experiencia digital
+* Hacer que los usuarios confíen en la app y en el banco.
+
+### Problemas encontrados 
+
+
 # Aplicación financiera
 
 ## Preámbulo
