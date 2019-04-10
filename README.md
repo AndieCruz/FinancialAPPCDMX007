@@ -1,6 +1,7 @@
 # App TUS FINANZAS
 ## Rediseño
-
+## Contexto
+[Datos duros](https://miro.com/app/board/o9J_kxmExN8=/?moveToWidget=3074457346541831135)
 ## Objetivos Iniciales
 
 El banco “Tus finanzas” propone lo siguiente:
@@ -13,8 +14,8 @@ El banco “Tus finanzas” propone lo siguiente:
 ## Problemas encontrados 
 ### Negocio
 
-[Análisis de Data:](https://miro.com/app/board/o9J_kxmExN8=/?moveToWidget=3074457346561144022)
-[Análisis de otras aplicaciones](https://miro.com/app/board/o9J_kxmExN8=/?moveToWidget=3074457346568295894)
+#### [Análisis de Data:](https://miro.com/app/board/o9J_kxmExN8=/?moveToWidget=3074457346561144022)
+#### [Análisis de otras aplicaciones](https://miro.com/app/board/o9J_kxmExN8=/?moveToWidget=3074457346568295894)
 
 Análisis de Landing-Page:
 
