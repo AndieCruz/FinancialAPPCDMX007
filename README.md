@@ -79,6 +79,7 @@ Próximos desarrollos
   * El presupuesto de marketing se debería invertir en el desarrollo de la aplicación en versión Android, ya que gracias al análisis de data, notamos que muchos usuarios utilizan dispositivos Android, lo que equivale a un gran número de usuarios que podrían utilizar la aplicación haciendo que el número de descargas y de registros se incrementen.
   
   ## Documentación
+  [Carpeta Drive](https://drive.google.com/open?id=1gEMMLij8K-46o_9fNV8TiAoOJG5fIyWa)
   
   [Video loom]
  
