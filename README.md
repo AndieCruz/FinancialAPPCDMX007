@@ -38,9 +38,11 @@ Con el test de usabilidad encontramos los siguientes problemas:
 * La aplicación tiene varios errores de heurística lo que hace que la aplicaión no cumpla con el objetivo principal, que es ayudar a ahorrar. [Análisis de Heurística](https://docs.google.com/spreadsheets/d/1CwpM3RXDBQZytdJBXpfiUY4Qw1lqOffqr3Xgh617gRo/edit?usp=sharing)
 * No confían en la aplicación ya que no saben si es perteneciente a un banco o es una aplicación terciara.
 * No les parece favorecedor tener que usar varias aplicaciones, prefieren una sola que tenga todos los beneficios.
-* Encontramos varios problemas en la navegación que se pueden checar en el [Journey Map](https://miro.com/app/board/o9J_kxmExN8=/?moveToWidget=3074457346542036284)
+* Encontramos varios problemas en la navegación que se pueden checar en el ### Journey map
+<a href="https://ibb.co/mFX5RZ2"><img src="https://i.ibb.co/dJL4fCV/App-Financiera-Costumer-Journey-Map-quot-Tus-Finanzas-quot.jpg" alt="App-Financiera-Costumer-Journey-Map-quot-Tus-Finanzas-quot" border="0"></a>
+
 [Gains & pains de test de usabilidad con usuario](https://miro.com/app/board/o9J_kxmExN8=/?moveToWidget=3074457346536645713)
-[Journey map](https://miro.com/app/board/o9J_kxmExN8=/?moveToWidget=3074457346542036284)
+
 
 ## Recomendaciones 
 * Qué modificaciones se deberían hacer
