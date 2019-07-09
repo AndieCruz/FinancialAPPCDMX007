@@ -46,7 +46,7 @@ Con el test de usabilidad encontramos los siguientes problemas:
 
 ## Recomendaciones 
 * Qué modificaciones se deberían hacer
-  * Primero, cambiar a su user persona. Para eso realicé ![ejes de comportamiento](https://i.ibb.co/DzMYyRt/App-Financiera-Ejes-de-comportamiento.jpg)
+  * Primero, cambiar a su user persona. Para eso realicé ![ejes de comportamiento](https://i.ibb.co/RY6NmD9/App-Financiera-Ejes-de-comportamiento.jpg)
   También cuadrantes para sacar el [arquetipo](https://miro.com/app/board/o9J_kxmExN8=/?moveToWidget=3074457346541737870)
   Para poder sacar al [User Persona](https://miro.com/app/board/o9J_kxmExN8=/?moveToWidget=3074457346541767742)
   * Segundo, cambiar las debilidades más notorias en cuanto a Heurísticas de Usabilidad para que el usuario se sienta cómodo al navegar en la aplicación.
