@@ -1,7 +1,8 @@
 # App TUS FINANZAS
 ## Rediseño
 ## Contexto
-[Datos duros](https://ibb.co/wdRjhd5)
+![Datos duros](https://ibb.co/wdRjhd5)
+<a href="https://ibb.co/wdRjhd5"><img src="https://i.ibb.co/j8Tsk8n/App-Financiera-Contexto.jpg" alt="App-Financiera-Contexto" border="0"></a>
 ## Objetivos Iniciales
 
 El banco “Tus finanzas” propone lo siguiente:
