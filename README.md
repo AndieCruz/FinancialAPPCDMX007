@@ -38,7 +38,7 @@ Con el test de usabilidad encontramos los siguientes problemas:
 * La aplicación tiene varios errores de heurística lo que hace que la aplicaión no cumpla con el objetivo principal, que es ayudar a ahorrar. [Análisis de Heurística](https://docs.google.com/spreadsheets/d/1CwpM3RXDBQZytdJBXpfiUY4Qw1lqOffqr3Xgh617gRo/edit?usp=sharing)
 * No confían en la aplicación ya que no saben si es perteneciente a un banco o es una aplicación terciara.
 * No les parece favorecedor tener que usar varias aplicaciones, prefieren una sola que tenga todos los beneficios.
-* Encontramos varios problemas en la navegación que se pueden checar en el ### Journey map
+* Encontramos varios problemas en la navegación que se pueden checar en el Journey map
 <a href="https://ibb.co/mFX5RZ2"><img src="https://i.ibb.co/dJL4fCV/App-Financiera-Costumer-Journey-Map-quot-Tus-Finanzas-quot.jpg" alt="App-Financiera-Costumer-Journey-Map-quot-Tus-Finanzas-quot" border="0"></a>
 
 [Gains & pains de test de usabilidad con usuario](https://miro.com/app/board/o9J_kxmExN8=/?moveToWidget=3074457346536645713)
@@ -46,7 +46,8 @@ Con el test de usabilidad encontramos los siguientes problemas:
 
 ## Recomendaciones 
 * Qué modificaciones se deberían hacer
-  * Primero, cambiar a su user persona. Para eso realicé [ejes de comportamiento](https://miro.com/app/board/o9J_kxmExN8=/?moveToWidget=3074457346541681218) 
+  * Primero, cambiar a su user persona. Para eso realicé [ejes de comportamiento]
+  ![url=https://ibb.co/mFX5RZ2][img]https://i.ibb.co/dJL4fCV/App-Financiera-Costumer-Journey-Map-quot-Tus-Finanzas-quot.jpg[/img][/url]
   También cuadrantes para sacar el [arquetipo](https://miro.com/app/board/o9J_kxmExN8=/?moveToWidget=3074457346541737870)
   Para poder sacar al [User Persona](https://miro.com/app/board/o9J_kxmExN8=/?moveToWidget=3074457346541767742)
   * Segundo, cambiar las debilidades más notorias en cuanto a Heurísticas de Usabilidad para que el usuario se sienta cómodo al navegar en la aplicación.
