@@ -1,7 +1,7 @@
 # App TUS FINANZAS
 ## Rediseño
 ## Contexto
-[Datos duros](https://miro.com/app/board/o9J_kxmExN8=/?moveToWidget=3074457346541831135)
+[Datos duros](https://ibb.co/wdRjhd5)
 ## Objetivos Iniciales
 
 El banco “Tus finanzas” propone lo siguiente:
