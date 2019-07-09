@@ -19,7 +19,8 @@ El banco “Tus finanzas” propone lo siguiente:
 #### Análisis de Data: 
 <a href="https://ibb.co/nPxLctB"><img src="https://i.ibb.co/z6q4RDF/App-Financiera-Ana-lisis-de-Data.jpg" alt="App-Financiera-Ana-lisis-de-Data" border="0"></a>
 
-#### [Análisis de otras aplicaciones](https://miro.com/app/board/o9J_kxmExN8=/?moveToWidget=3074457346568295894)
+#### Análisis de otras aplicaciones
+<a href="https://ibb.co/SsjWJrJ"><img src="https://i.ibb.co/C1cNW2W/App-Financiera-Benchmark.jpg" alt="App-Financiera-Benchmark" border="0"></a>
 
 Análisis de Landing-Page:
 
