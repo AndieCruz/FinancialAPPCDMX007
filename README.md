@@ -51,7 +51,9 @@ Con el test de usabilidad encontramos los siguientes problemas:
   <br>
   También cuadrantes para sacar el arquetipo <a href="https://ibb.co/W0qb7Dv"><img src="https://i.ibb.co/cwMGRbh/App-Financiera-Arquetipo-Quie-n-nos-necesita.jpg" alt="App-Financiera-Arquetipo-Quie-n-nos-necesita" border="0"></a>
   <br>
-  Para poder sacar al ![User Persona](https://i.ibb.co/b3PLN7m/App-Financiera-User-Person.jpg)
+  Para poder sacar al User Persona
+  <a href="https://ibb.co/b3PLN7m"><img src="https://i.ibb.co/vBHmLDq/App-Financiera-User-Person.jpg" alt="App-Financiera-User-Person" border="0"></a>
+  <br>
   * Segundo, cambiar las debilidades más notorias en cuanto a Heurísticas de Usabilidad para que el usuario se sienta cómodo al navegar en la aplicación.
   * También motivar al usuario con incentivos que otorgará el banco, dando al usuario una razón para usar la aplicación.
   * Brindar más servicios y beneficios como un balance de gastos, para dar consejos y tips al usuario, sobre como llevar una salud financiera adecuada.
